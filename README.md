@@ -30,19 +30,6 @@ A fast 3D model viewer that runs in your terminal. It's a full GPU-style rasteri
 
 Multi-threaded work-stealing rasterizer, perspective-correct interpolation, z-buffering through packed 64-bit atomics, per-pixel Blinn-Phong shading, texture sampling, and sorted back-to-front transparency. Prebuilt binaries for Linux, macOS, and Windows.
 
-## [HyperPrune](https://github.com/PavolUlicny/HyperPrune)
-
-<img src="https://raw.githubusercontent.com/PavolUlicny/HyperPrune/main/demo.gif" alt="HyperPrune demo" width="420" align="right">
-
-A high-performance single-threaded Tic-Tac-Toe engine in C with verified deterministic perfect play on 3×3 through 5×5 boards, and support for boards up to 8×8.
-
-- Bitboard board representation
-- Negamax with alpha-beta pruning
-- Transposition tables
-- CI-tested, with releases for Linux, macOS, and Windows
-
-<br clear="right">
-
 ## Stats
 
 <p align="center">
