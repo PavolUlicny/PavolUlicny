@@ -46,6 +46,10 @@ A high-performance single-threaded Tic-Tac-Toe engine in C with verified determi
 ## Stats
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/PavolUlicny/PavolUlicny/output/github-metrics.svg" alt="GitHub stats and top languages">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=PavolUlicny&theme=transparent&hide_border=true" alt="GitHub streak">
 </p>
 
