@@ -2,9 +2,9 @@
 
 # Hey, I'm Pavol
 
-**I like building fast and sometimes useful stuff.**
+**I build fast and sometimes useful stuff.**
 
-I like working in more low-level languages like C++ and C, but I also know a little Python.
+I usually work in low-level languages like C++ and C, but I also know a little Python.
 
 Bratislava, Slovakia
 
@@ -20,15 +20,13 @@ Bratislava, Slovakia
 
 ## [rasterminal](https://github.com/PavolUlicny/rasterminal)
 
-A fast 3D model viewer that runs in your terminal. It's a full GPU-style rasterization pipeline written entirely in CPU code, rendering OBJ / PLY / STL / glTF models in real time as 24-bit ANSI half-block characters. Works anywhere you have a terminal, even over SSH with no display and no GPU. Zero dependencies.
+A 3d model viewer for your terminal.
 
 <p align="center">
   <a href="https://github.com/PavolUlicny/rasterminal">
     <img src="https://raw.githubusercontent.com/PavolUlicny/rasterminal/main/assets/demo.gif" alt="rasterminal spinning a 3D model in the terminal" width="720">
   </a>
 </p>
-
-Multi-threaded work-stealing rasterizer, perspective-correct interpolation, z-buffering through packed 64-bit atomics, per-pixel Blinn-Phong shading, texture sampling, and sorted back-to-front transparency. Prebuilt binaries for Linux, macOS, and Windows.
 
 ## Stats
 
